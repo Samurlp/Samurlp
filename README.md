@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Samuel
 
 Olá! =) <br>
-Estou cursando 2° semestre de Sistemas de Informação e sou jovem aprendiz.
+Estou cursando 3° semestre de Sistemas de Informação e sou jovem aprendiz.
 Tenho interesse em Web Design e desenvolvimento web.
   
   <a href = "https://github.com/Samurlp">
