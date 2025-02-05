@@ -1,8 +1,10 @@
-## Olá, Eu sou o Samuel
+## Olá, Eu sou o Samuel👨🏽‍💻
 
-Olá! =) <br>
-Estou cursando 3° semestre de Sistemas de Informação e sou jovem aprendiz.
-Tenho interesse em Web Design e desenvolvimento web.
+**`Desenvolvedor Front-end`**
+
+Olá! Meu nome é Samuel, tenho 19 anos e moro em São Paulo.
+Sou estudante de Sistemas de Informação e apaixonado por transformar 
+ideias em realidade, desde o design até a programação dos meus projetos!
   
   <a href = "https://github.com/Samurlp">
   <img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Samurlp&show_icons=true&theme=dark" alt="Samurlp" />
