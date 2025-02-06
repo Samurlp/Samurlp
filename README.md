@@ -5,11 +5,11 @@ Olá! Meu nome é Samuel, tenho 19 anos e moro em São Paulo.
 Sou estudante de Sistemas de Informação e apaixonado por transformar 
 ideias em realidade, desde o design até a programação dos meus projetos!
 
-## connect with me
+## Connect With Me
 
 <a href="https://www.linkedin.com/in/samuelsantos09/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-## Estatisticas
+## Statistics
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Samurlp&theme=gruvbox&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Samurlp&theme=gruvbox&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
